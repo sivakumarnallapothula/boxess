@@ -1,0 +1,39 @@
+/* Write your code here. */
+.ks {
+  height: 50px;
+  width: 50px;
+  box-sizing: border-box;
+  background-color: red;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ns {
+  height: 80px;
+  width: 80px;
+  box-sizing: border-box;
+  background-color: blue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ps {
+  height: 110px;
+  width: 110px;
+  box-sizing: border-box;
+  background-color: lightblue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.o {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
